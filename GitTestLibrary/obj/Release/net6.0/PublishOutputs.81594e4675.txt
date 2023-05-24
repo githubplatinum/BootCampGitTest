@@ -1,0 +1,5 @@
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Release/net6.0/publish/TestAppBootcamp
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Release/net6.0/publish/TestAppBootcamp.dll
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Release/net6.0/publish/TestAppBootcamp.deps.json
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Release/net6.0/publish/TestAppBootcamp.runtimeconfig.json
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Release/net6.0/publish/TestAppBootcamp.pdb

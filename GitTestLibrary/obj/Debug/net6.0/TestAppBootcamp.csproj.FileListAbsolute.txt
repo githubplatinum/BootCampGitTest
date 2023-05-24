@@ -1,0 +1,15 @@
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Debug/net6.0/TestAppBootcamp
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Debug/net6.0/TestAppBootcamp.deps.json
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Debug/net6.0/TestAppBootcamp.runtimeconfig.json
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Debug/net6.0/TestAppBootcamp.dll
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/bin/Debug/net6.0/TestAppBootcamp.pdb
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.csproj.AssemblyReference.cache
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.AssemblyInfoInputs.cache
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.AssemblyInfo.cs
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.csproj.CoreCompileInputs.cache
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.dll
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/refint/TestAppBootcamp.dll
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.pdb
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/TestAppBootcamp.genruntimeconfig.cache
+/Users/tihor/Projects/TestAppBootcamp/TestAppBootcamp/obj/Debug/net6.0/ref/TestAppBootcamp.dll

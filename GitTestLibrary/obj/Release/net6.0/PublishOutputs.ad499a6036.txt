@@ -1,0 +1,5 @@
+/Users/tihor/Documents/BootcampTestApp/TestAppBootcamp
+/Users/tihor/Documents/BootcampTestApp/TestAppBootcamp.dll
+/Users/tihor/Documents/BootcampTestApp/TestAppBootcamp.deps.json
+/Users/tihor/Documents/BootcampTestApp/TestAppBootcamp.runtimeconfig.json
+/Users/tihor/Documents/BootcampTestApp/TestAppBootcamp.pdb
